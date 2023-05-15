@@ -1,1 +1,1 @@
-pandoc -s -o index.html content.md --metadata-file style.yaml
+pandoc -s -o index.html "Clemens Schmid.md" --metadata-file style.yaml
