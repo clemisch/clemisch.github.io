@@ -1,12 +1,12 @@
 ![](pic.jpg)
 
-Hi! I am Clemens Schmid and a PhD candidate with Franz Pfeiffer at TUM. I am currently based in Munich, Germany.
+Hi! I am Clemens Schmid, a PhD candidate at the [Department of Physics at TUM](https://www.ph.nat.tum.de/en/e17/home/). I am currently based in Munich, Germany.
 
 Academically, I am interested in image processing, computational physics, medical imaging, and open-source software.
 
-For my PhD research, I worked on integrating a Talbot-Lau interferometer into a clinical CT system to perform dark-field tomography on humans for the first time. My focus were modeling and algorithmic processing of image data. Apart from this main project, I designed and maintained the core libraries of our chair (which sadly are not open-source).
+For my PhD research, I worked on integrating a Talbot-Lau interferometer into a clinical CT system to perform X-ray dark-field tomography on humans. My focus were modeling and algorithmic processing of image data. Apart from this main project, I designed and maintained the core libraries of our chair (which sadly are not open-source).
 
-I hope to do a Postdoc soon on new imaging methodology; merging physics, signal processing, and software engineering. 
+I hope to do a Postdoc soon on new imaging methodology with X-rays at a synchrotron---merging physics, signal processing, and software engineering. 
 
 🔗 [Google Scholar](https://scholar.google.com/citations?user=pdftypEAAAAJ&hl=de)   
 🔗 [Github](https://github.com/clemisch)   
