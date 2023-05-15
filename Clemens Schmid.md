@@ -1,4 +1,4 @@
-![](pic.jpg)
+![](pic.png)
 
 Hi! I am Clemens Schmid, a PhD candidate at the [Department of Physics at TUM](https://www.ph.nat.tum.de/en/e17/home/). I am currently based in Munich, Germany.
 
